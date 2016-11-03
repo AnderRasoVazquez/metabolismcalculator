@@ -1,0 +1,3 @@
+[submodule "metabolismcalculator/anthropometrics"]
+	path = metabolismcalculator/anthropometrics
+	url = git@github.com:AnderRasoVazquez/anthropometrics.git
